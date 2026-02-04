@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on: *LabRats*
+- 🔭 Currently working on: -
 - 🌱 Learning: *Deep Learning*  
 - 💬 Ask me about: *Python, Machine Learning*  
 - 📧 Reach me at: *asmitbhattacharyya12@gmail.com*  
