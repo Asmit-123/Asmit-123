@@ -29,8 +29,7 @@
 
 ## 🌟 Projects  
 - 📌 *[Football Analysis with Tactical Map]*
-- 📌 *[SnapGram]*
-- 📌 *[Saas Reusable Foundation]*  
+- 📌 *[MathForge]*
 
 ---
 
