@@ -95,7 +95,7 @@ A computer vision-based football analysis application for detecting and tracking
 * Implemented team assignment, ball tracking, player positioning, and tactical-map visualization.
 * Extended the analysis pipeline into a Streamlit web application for automated video analysis.
 
-* GitHub Repo: [https://github.com/Asmit-123/Football-Match-Analysis-with-Tactical-Map]
+* GitHub Repo: [https://github.com/Asmit-123/football-tactical-map.git]
 
 ### 🧮 [MathForge]()
 
