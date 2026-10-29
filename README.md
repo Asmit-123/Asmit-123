@@ -109,7 +109,7 @@ An AI-powered mathematical question generation and solving application with conf
 
 * GitHub Repo: [https://github.com/Asmit-123/MathForge]
 
-### 📊 [Mutual Fund Analyzer]()
+### 📊 [Mutual Fund Analyzer](https://mutual-fund-analyzer-tau.vercel.app/)
 
 **Python | FastAPI | Next.js | LLM Integration**
 
