@@ -85,7 +85,7 @@
 
 ## 🌟 Featured Projects
 
-### ⚽ [Football Match Analysis with Tactical Map]()
+### ⚽ [Football Match Analysis with Tactical Map](https://football-tactical-map-analysis.streamlit.app/)
 
 **Python | YOLO | Ultralytics | OpenCV | Roboflow | Supervision | Streamlit**
 
