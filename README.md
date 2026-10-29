@@ -97,18 +97,6 @@ A computer vision-based football analysis application for detecting and tracking
 
 * GitHub Repo: [https://github.com/Asmit-123/football-tactical-map.git]
 
-### 🧮 [MathForge]()
-
-**Python | FastAPI | SymPy | NumPy | LLM APIs**
-
-An AI-powered mathematical question generation and solving application with configurable topics, difficulty levels, and answer formats.
-
-* Integrated LLM-generated solutions with symbolic computation using SymPy for mathematical verification.
-* Implemented a multi-provider LLM architecture with configurable models and generation parameters.
-* Developed a system for generating and solving mathematical questions across configurable topics and difficulty levels.
-
-* GitHub Repo: [https://github.com/Asmit-123/MathForge]
-
 ### 📊 [Mutual Fund Analyzer](https://mutual-fund-analyzer-tau.vercel.app/)
 
 **Python | FastAPI | Next.js | LLM Integration**
